@@ -20,6 +20,8 @@
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangsat-XD&layout=compact&theme=chartreuse-dark">
 </p>
 
+[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Bangsat-XD&repo=SADIS&theme=chartreuse-dark)](https://github.com/Bangsat-XD/SADIS)
+
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Bangsat-XD&repo=JEBOL&theme=chartreuse-dark)](https://github.com/Bangsat-XD/JEBOL)
 
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Bangsat-XD&repo=BAJINGAN&theme=chartreuse-dark)](https://github.com/Bangsat-XD/BAJINGAN)
