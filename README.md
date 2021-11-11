@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+this☆RAKA☆.....;Nice+to+see+you....!&size=25"> </a> </h1> <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+this☆RAKA☆.....;Nice+to+see+you....!&size=25"> 
 - 👨🏽‍💻 •®• <b>HELLO PROGRAMERS I AM! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <b> <a href="https://www.twitter.com/Bangsat_XD" target="blank">☆ Raka ☆™︻®╤───────═◍➤</a>
 &nbsp;
@@ -90,28 +89,9 @@
 <h4 align="center">
 
 [![Youtube](https://img.shields.io/badge/Youtube-Report-green?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCeha3A70FKR-YqGT5oY-7nQ)
-</p>
-<hr>
-<h2 align="center">👨🏽‍💻 Languages & Frameworks & Tools 👨🏽‍💻</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Gulp" height="25" src="images/flutter.png"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
+
+</h1>
+<h4 align="center">
+ •®• <b>VISTOR COUNT •®•
+
+  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
