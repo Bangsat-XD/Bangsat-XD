@@ -9,8 +9,7 @@
 - ⚡️ •®• 𝙈𝙔 𝙃𝙊𝘽𝘽𝙔 𝙄𝙎 𝙃𝘼𝘾𝙆𝙄𝙉𝙂   
 - 💬 •®• 𝘼𝙎𝙆 𝙈𝙀 𝘼𝘽𝙊𝙐𝙏 𝘼𝙉𝙔𝙏𝙃𝙄𝙉𝙂, 𝙄 𝘼𝙈 𝙃𝘼𝙋𝙋𝙔 𝙏𝙊 𝙃𝙀𝙇𝙋;   
 
-<img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/md7Oqrf.gif " width="300%"> 
-<p align="center">
+<img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 
 </h1>
   <p align="center">
