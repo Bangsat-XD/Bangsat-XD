@@ -11,7 +11,10 @@
 
 <img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 
-
+<p align="center">
+</h1>
+  <p align="center">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Bangsat-XD&show_icons=true&theme=chartreuse-dark&locale=id">
 
 </h1>
 <h4 align="center">
